@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" width="100" alt="graphql logo"/>
+<img src="https://i.imgur.com/migo24P.png" width="100" alt="moon highway logo"/>
+</p>
+
 # Reactathon GraphQL Workshop
 
 Welcome! I'm really glad that you're here. Below you'll find all of the resources that we'll use throughout this course. If you're looking for slides, samples, links, etc., this is the place to look.
