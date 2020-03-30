@@ -61,6 +61,25 @@ curl -X POST \
 - [Snowtooth UI Start Files](https://github.com/graphqlworkshop/snowtooth-ui)
 - [Lab Instructions](https://slides.com/moonhighway/client-lab/)
 
+## Apollo Tooling 🛠
+
+**Slides**
+
+- [TypeScript & GraphQL](https://slides.com/moonhighway/typescript-graphql)
+
+**Samples**
+
+- [TypeScript & Apollo CLI - Finished Project + Instructions](https://github.com/graphqlworkshop/snowtooth-typescript)
+- [Snowtooth API](https://snowtooth.moonhighway.com)
+- [Lift Manager Sample Client Code](https://github.com/eveporcello/lift-manager/blob/master/src/index.js)
+- [Lift Manager Website](https://lift-manager.netlify.com)
+- [Big Basin Sample Client Code](https://github.com/eveporcello/big-basin/blob/master/src/index.js)
+- [Big Basin Website](https://big-basin.netlify.com)
+- [Snowtooth Project Repo](https://github.com/moonhighway/snowtooth)
+- [Client Side Mocking - CodeSandbox](https://codesandbox.io/s/client-mocking-epqmp)
+- [Apollo REST Data Sources](https://github.com/MoonHighway/countries-datasources)
+- [Batch Link](https://github.com/eveporcello/batching)
+
 ## Next Steps
 
 - [Fullstack Error Handling with GraphQL](https://blog.apollographql.com/full-stack-error-handling-with-graphql-apollo-5c12da407210)
