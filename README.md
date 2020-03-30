@@ -84,3 +84,7 @@ curl -X POST \
 
 - [Fullstack Error Handling with GraphQL](https://blog.apollographql.com/full-stack-error-handling-with-graphql-apollo-5c12da407210)
 - [Apollo Federation](https://egghead.io/playlists/getting-started-with-apollo-federation-60ad0165)
+
+## Evaluation!
+
+* [Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSf-EDajyFkrKvvF-rZfqSLsSsSgM7BCw5Wh_cb9mWPqdNVbEQ/viewform?usp=sf_link)
